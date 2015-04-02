@@ -951,12 +951,12 @@ a.cke_path_item:hover,a.cke_path_item:focus,a.cke_path_item:active
 legend.cke_voice_label { display: none; }
 .cke_button__about_icon { background: url(icons.png) no-repeat 0 -0px ; }
 .cke_button__bold_icon { background: url(icons.png) no-repeat 0 -32px ; }
-.cke_button__italic_icon { background: url(icons.png) no-repeat 0 -48px ; }
+.cke_button__italic_icon { background: url(icons.png) no-repeat 0 -64px ; }
 .cke_button__strike_icon { background: url(icons.png) no-repeat 0 -72px ; }
 .cke_button__subscript_icon { background: url(icons.png) no-repeat 0 -96px ; }
 .cke_button__superscript_icon { background: url(icons.png) no-repeat 0 -120px ; }
 .cke_button__underline_icon { background: url(icons.png) no-repeat 0 -144px ; }
-.cke_button__blockquote_icon { background: url(icons.png) no-repeat 0 -168px ; }
+.cke_button__blockquote_icon { background: url(icons.png) no-repeat 0 -288px ; }
 .cke_rtl .cke_button__copy_icon, .cke_mixed_dir_content .cke_rtl .cke_button__copy_icon { background: url(icons.png) no-repeat 0 -192px ; }
 .cke_ltr .cke_button__copy_icon { background: url(icons.png) no-repeat 0 -216px ; }
 .cke_rtl .cke_button__cut_icon, .cke_mixed_dir_content .cke_rtl .cke_button__cut_icon { background: url(icons.png) no-repeat 0 -240px ; }
@@ -971,12 +971,12 @@ legend.cke_voice_label { display: none; }
 .cke_ltr .cke_button__outdent_icon { background: url(icons.png) no-repeat 0 -456px ; }
 .cke_rtl .cke_button__anchor_icon, .cke_mixed_dir_content .cke_rtl .cke_button__anchor_icon { background: url(icons.png) no-repeat 0 -480px ; }
 .cke_ltr .cke_button__anchor_icon { background: url(icons.png) no-repeat 0 -504px ; }
-.cke_button__link_icon { background: url(icons.png) no-repeat 0 -528px ; }
-.cke_button__unlink_icon { background: url(icons.png) no-repeat 0 -552px ; }
+.cke_button__link_icon { background: url(icons.png) no-repeat 0 -1760px ; }
+.cke_button__unlink_icon { background: url(icons.png) no-repeat 0 -1792px ; }
 .cke_rtl .cke_button__bulletedlist_icon, .cke_mixed_dir_content .cke_rtl .cke_button__bulletedlist_icon { background: url(icons.png) no-repeat 0 -576px ; }
-.cke_ltr .cke_button__bulletedlist_icon { background: url(icons.png) no-repeat 0 -600px ; }
-.cke_rtl .cke_button__numberedlist_icon, .cke_mixed_dir_content .cke_rtl .cke_button__numberedlist_icon { background: url(icons.png) no-repeat 0 -624px ; }
-.cke_ltr .cke_button__numberedlist_icon { background: url(icons.png) no-repeat 0 -648px ; }
+.cke_ltr .cke_button__bulletedlist_icon { background: url(icons.png) no-repeat 0 -672px ; }
+.cke_rtl .cke_button__numberedlist_icon, .cke_mixed_dir_content .cke_rtl .cke_button__numberedlist_icon { background: url(icons.png) no-repeat 0 -736px ; }
+.cke_ltr .cke_button__numberedlist_icon { background: url(icons.png) no-repeat 0 -736px ; }
 .cke_button__maximize_icon { background: url(icons.png) no-repeat 0 -672px ; }
 .cke_rtl .cke_button__pastetext_icon, .cke_mixed_dir_content .cke_rtl .cke_button__pastetext_icon { background: url(icons.png) no-repeat 0 -696px ; }
 .cke_ltr .cke_button__pastetext_icon { background: url(icons.png) no-repeat 0 -720px ; }
@@ -1008,7 +1008,7 @@ legend.cke_voice_label { display: none; }
 
 .cke_hidpi .cke_button__italic_icon
 {
-	background: url(icons_hidpi.png) no-repeat 0 -48px ;
+	background: url(icons_hidpi.png) no-repeat 0 -64px ;
 	background-size: 16px ;
 }
 
@@ -1146,7 +1146,7 @@ legend.cke_voice_label { display: none; }
 
 .cke_hidpi .cke_ltr .cke_button__bulletedlist_icon,.cke_ltr.cke_hidpi .cke_button__bulletedlist_icon
 {
-	background: url(icons_hidpi.png) no-repeat 0 -600px ;
+	background: url(icons_hidpi.png) no-repeat 0 -672px ;
 	background-size: 16px ;
 }
 
@@ -1158,7 +1158,7 @@ legend.cke_voice_label { display: none; }
 
 .cke_hidpi .cke_ltr .cke_button__numberedlist_icon,.cke_ltr.cke_hidpi .cke_button__numberedlist_icon
 {
-	background: url(icons_hidpi.png) no-repeat 0 -648px ;
+	background: url(icons_hidpi.png) no-repeat 0 -736px ;
 	background-size: 16px ;
 }
 
