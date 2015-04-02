@@ -950,7 +950,7 @@ a.cke_path_item:hover,a.cke_path_item:focus,a.cke_path_item:active
 .cke_voice_label { display: none; }
 legend.cke_voice_label { display: none; }
 .cke_button__about_icon { background: url(icons.png) no-repeat 0 -0px ; }
-.cke_button__bold_icon { background: url(icons.png) no-repeat 0 -24px ; }
+.cke_button__bold_icon { background: url(icons.png) no-repeat 0 -32px ; }
 .cke_button__italic_icon { background: url(icons.png) no-repeat 0 -48px ; }
 .cke_button__strike_icon { background: url(icons.png) no-repeat 0 -72px ; }
 .cke_button__subscript_icon { background: url(icons.png) no-repeat 0 -96px ; }
@@ -1002,7 +1002,7 @@ legend.cke_voice_label { display: none; }
 
 .cke_hidpi .cke_button__bold_icon
 {
-	background: url(icons_hidpi.png) no-repeat 0 -24px ;
+	background: url(icons_hidpi.png) no-repeat 0 -32px ;
 	background-size: 16px ;
 }
 
